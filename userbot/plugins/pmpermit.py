@@ -12,7 +12,7 @@ from userbot import CMD_HELP
 
 PMPERMIT_PIC = os.environ.get("PMPERMIT_PIC", None)
 if PMPERMIT_PIC is None:
-  CAT_PIC = " https://telegra.ph/file/a27bd881e9531f8c1d189.jpg "
+  CAT_PIC = " https://telegra.ph/file/05504ee05a84027f8debd.jpg "
 else:
   CAT_PIC = PMPERMIT_PIC  
 
